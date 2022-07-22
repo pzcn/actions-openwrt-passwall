@@ -31,7 +31,7 @@ on:
         
 env:
   REPO_URL: https://github.com/Lienol/openwrt
-  REPO_BRANCH: master
+  REPO_BRANCH: 22.03
   CONFIG_FILE: .config
   DIY_SH: diy.sh
   FREE_UP_DISK: false
